@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(248,249,250)
+}
+th,td {
+    border: 1px solid #000;
+    padding: 5px;
+}
+.shopping-card {
+    font-family: 'Amaranth', sans-serif;
+}
+thead{
+    font-family: 'Syncopate', sans-serif;
+    font-size: 15px;
+}
+table{
+margin: auto;
+table-layout: fixed;
+width: 800px;
+text-align :center;
+}
+.product-image>img{
+    margin-top: 15px;
+    width:100px;
+    border-bottom-left-radius:60px ;
+    border-top-right-radius:60px ;
+}
